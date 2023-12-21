@@ -1,0 +1,15 @@
+C:\Users\burch\source\repos\temp\ControlFolow\bin\Debug\net6.0\ControlFolow.exe
+C:\Users\burch\source\repos\temp\ControlFolow\bin\Debug\net6.0\ControlFolow.deps.json
+C:\Users\burch\source\repos\temp\ControlFolow\bin\Debug\net6.0\ControlFolow.runtimeconfig.json
+C:\Users\burch\source\repos\temp\ControlFolow\bin\Debug\net6.0\ControlFolow.dll
+C:\Users\burch\source\repos\temp\ControlFolow\bin\Debug\net6.0\ControlFolow.pdb
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.csproj.AssemblyReference.cache
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.AssemblyInfoInputs.cache
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.AssemblyInfo.cs
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.csproj.CoreCompileInputs.cache
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.dll
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\refint\ControlFolow.dll
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.pdb
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ControlFolow.genruntimeconfig.cache
+C:\Users\burch\source\repos\temp\ControlFolow\obj\Debug\net6.0\ref\ControlFolow.dll

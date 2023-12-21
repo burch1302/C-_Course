@@ -1,0 +1,8 @@
+C:\Users\burch\source\repos\temp\temp\obj\Debug\temp.csproj.AssemblyReference.cache
+C:\Users\burch\source\repos\temp\temp\obj\Debug\temp.csproj.SuggestedBindingRedirects.cache
+C:\Users\burch\source\repos\temp\temp\obj\Debug\temp.csproj.CoreCompileInputs.cache
+C:\Users\burch\source\repos\temp\temp\bin\Debug\temp.exe.config
+C:\Users\burch\source\repos\temp\temp\bin\Debug\temp.exe
+C:\Users\burch\source\repos\temp\temp\bin\Debug\temp.pdb
+C:\Users\burch\source\repos\temp\temp\obj\Debug\temp.exe
+C:\Users\burch\source\repos\temp\temp\obj\Debug\temp.pdb
